@@ -1,14 +1,14 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Students!
 
-> https://punit.chankit.live
+> https://punit.chankit.me
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://punit.chankit.live/" target="_blank"><img src="examples/preview.GIF">
+    <a href="https://punit.chankit.me/" target="_blank"><img src="examples/preview.GIF">
   </a>
   </kbd>
 </p>
@@ -34,7 +34,7 @@
 ✔️ Education\
 ✔️ Contact Info\
 
-To view a live example, **[click here](https://punit.chankit.live/)**
+To view a live example, **[click here](https://punit.chankit.me/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
